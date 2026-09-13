@@ -66,3 +66,7 @@ Snap 当前没有内置图片编辑器；复制到剪贴板时不会触发打开
 ### 如何关闭截图提示音？
 
 在“偏好设置”中关闭“截图完成后播放声音”即可。
+
+## 隐私政策
+
+关于截图、本地设置及技术支持信息的处理方式，请参阅[截图工具（Snap）隐私政策](https://github.com/xyeric/product-support/blob/main/snap-privacy-policy.md)。
